@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+}
+
+td {
+  vertical-align: top;
+}
+
+.c {
+  width: 20vw;
+}
+
+.c > input,
+.c > textarea,
+.c > select,
+.c > button {
+  width: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
